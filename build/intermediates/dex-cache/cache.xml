@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\classes-63bdbe73a0ae9f8fbd7b82cb7d20839e8c18f31a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\exploded-aar\com.github.ksoichiro\android-observablescrollview\1.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="010ee9e87a286afcaeaed368dcf829e42d0aa2a0">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\classes-5658ac177cbd3f41309b9a7536f29f7e2a42bf14.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\picasso-2.5.0-bea6302309a4c10172c9d74f60b7f858eb160e6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.0.0\4c8d1536dba3812cc1592090dc20c47a4ed3c35e\okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\okhttp-2.0.0-f0e2a2898605839b4b7be7bd60f5834953733b7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.8.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7a055a4323187e6f6a5e63f01b5a59bff71869a5">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\classes-15d447e1a0efdb7cdc953265463cbc8589177e62.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\classes-466c530467f6baafb0fcaafb0d9d60923526466a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\classes-f237ec2e7633397ac6d112bfbde52f2a7ae4041f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-883cd66a9c8588bdd63ddd1b5b343d62fb2d4a2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\exploded-aar\com.android.support\palette-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="926692214530f39eaed89159237d26cdc0ae6e48">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\classes-2ade7f65ba3be3c1ab5f428303a15620aa83443d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-b4a05bdd61cfa55ed01ae769029a2b1e8ff6e2fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.0.0\2534c458682c73f5b9871131ab3098d3f987ca3\okio-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\okio-1.0.0-4577511d16a6c040e60390174ac9e80d153b4a71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.0.0\afe8399d352713b66e597e9670c741d1e60ae923\okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\okhttp-urlconnection-2.0.0-70f353ca003eaca5cffa1b117707e92397df5afd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\library-2.4.0-63eaad352e6baf5273b9039eab173eec2c15d45b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\exploded-aar\InstagramByFA.libraries\android-instagram-oauth\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="20cff2711279634d406cc1cbd24c7f3419b1e108">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\classes-0d2893a91d826c7e0e1a648f39a9e90211268906.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\exploded-aar\com.github.medyo\fancybuttons\1.5\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="511320053169bdc5d8445a414db09e7cdd10d920">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\classes-ddfdde5208912bc8b21ea06086e1e07743030707.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\Florent\Downloads\InstagramByFA\app\build\intermediates\pre-dexed\release\classes-9abbbd704db5ec31e362c51330c846dabe78a28c.jar" />
+    </item>
+
+</items>

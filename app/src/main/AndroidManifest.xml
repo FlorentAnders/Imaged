@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      package="com.fa.imaged"
+      android:versionCode="15"
+      android:versionName="1.0.1">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="22"  />
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:name="com.fa.imaged.App"
+        android:theme="@style/AppTheme"
+        android:configChanges="orientation|keyboardHidden|screenSize">
+        <activity android:name="com.fa.imaged.MainActivity" android:screenOrientation="portrait" android:theme="@style/LoginTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.HomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.DetailActivity"
+            android:theme="@style/AppTheme">
+        </activity>
+        <activity
+            android:name=".activity.ProfileActivity"
+            android:theme="@style/ProfileTheme" />
+        <activity
+            android:name=".activity.EditProfileActivity"
+            android:parentActivityName=".activity.ProfileActivity"
+            android:theme="@style/ProfileTheme">
+        <meta-data
+        android:name="android.support.PARENT_ACTIVITY"
+        android:value=".activity.ProfileActivity"/>
+    </activity>
+        <activity
+            android:name=".activity.DetailActivityV2"
+            android:parentActivityName=".activity.HomeActivity"
+            android:theme="@style/DetailTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"></action>
+  				<category android:name="android.intent.category.DEFAULT"></category>
+  				<category android:name="android.intent.category.BROWSABLE"></category>
+  				<data android:host="www.instagram.com" android:scheme="http"></data>
+  				<data android:host="instagram.com" android:scheme="http"></data>
+            </intent-filter>
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.HomeActivity"/>
+        </activity>
+        <activity
+            android:name=".activity.FollowersActivity"
+            android:parentActivityName=".activity.HomeActivity"
+            android:theme="@style/DetailTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.HomeActivity"/>
+        </activity>
+        <activity
+            android:name=".activity.FollowingActivity"
+            android:parentActivityName=".activity.HomeActivity"
+            android:theme="@style/DetailTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.HomeActivity"/>
+        </activity>
+        <activity
+            android:name=".activity.LikersActivity"
+            android:theme="@style/DetailTheme">
+        </activity>
+    </application>
+    
+</manifest>

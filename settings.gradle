@@ -1,0 +1,2 @@
+include ":libraries:android-instagram-oauth", ':app', ':floatingactionbutton'
+project(':floatingactionbutton').projectDir = new File('libraries/floatingactionbutton')
